@@ -24,3 +24,9 @@ Who created the changes
 # Exp 2.2- To Merge Pull Request and Update local repository on GitHub
 First, you will need to create a local repository for your project. I will be using PowerShell for this tutorial, but you can use any other terminal available to you. However, you will need to use equivalent commands for creating folders and navigating the directory structure so that you understand how to merge in Git.
 # exp2.2{https://github.com/ShubhamKumar-S/Sem4/blob/GitHub/Worksheet%20-%202.2.pdf}
+
+# EXP 2.3 - Creation of Forks on GitHub
+A GitHub fork is a copy of a repository (repo) that sits in your account rather than the account from which you forked the data from. Once you have forked a repo, you own your forked copy. This means that you can edit the contents of your forked repository without impacting the parent repo.
+![image](https://github.com/ShubhamKumar-S/Sem4/assets/135735527/6258d6ef-356c-49f3-a689-568082ae81e8)
+# exp 2.3 - {}
+
